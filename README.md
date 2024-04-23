@@ -22,22 +22,22 @@ Mudiyan-md-v2 Multi Device Whatsapp Bot.
 
 Fork The Repo
     <br>
-<a href="https://github.com/AbhishekSuresh2/Phoenix-MD/fork"><img title="Phoenix-MD" src="https://img.shields.io/badge/FORK Phoenix MD-h?color=black&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/AbhishekSuresh2/mudiyan-md/fork"><img title="Phoenix-MD" src="https://img.shields.io/badge/FORK mudiyan MD-h?color=black&style=for-the-badge&logo=stackshare"></a>
 
 #### Session ID
 
 <a href="https://phoenix-mdsessionid-0ae5aea325e1.herokuapp.com"><img title="Phoenix-MD Session ID" src="https://img.shields.io/badge/GET SESSION ID-h?color=black&style=for-the-badge&logo=msi"></a>
 
-## Phoenix-MD Deploy Method
+## Mudiyan-MD Deploy Method
 
 
 ### Deploy Codespace
 
-<a href="https://github.com/codespaces/new"><img title="Phoenix-MD Deploy CodeSpace" src="https://img.shields.io/badge/DEPLOY CODESPACE-h?color=black&style=for-the-badge&logo=visualstudiocode"></a>
+<a href="https://github.com/codespaces/new"><img title="mudiyan-MD Deploy CodeSpace" src="https://img.shields.io/badge/DEPLOY CODESPACE-h?color=black&style=for-the-badge&logo=visualstudiocode"></a>
 
 ### Codespace Tutorial
 
-<a href="https://youtu.be/ZSwJtaN0BUk?si=FOsYpMs4WbvBFCpY"><img title="Phoenix-MD Deploy CodeSpace" src="https://img.shields.io/badge/Codespace Tutorial-h?color=black&style=for-the-badge&logo=visualstudiocode"></a>
+<a href="https://youtu.be/ZSwJtaN0BUk?si=FOsYpMs4WbvBFCpY"><img title="mudiyan-MD Deploy CodeSpace" src="https://img.shields.io/badge/Codespace Tutorial-h?color=black&style=for-the-badge&logo=visualstudiocode"></a>
 
 ### Deploy Heroku 
 
