@@ -1,6 +1,6 @@
    # MUDIYAN-MD-v2
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=F710B1&center=true&width=910&height=100&lines=I'M+Mudiyan-MD;Multi+Divice+Whatsapp+Bot;Coded+By+Abhishek Suresh" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=F710B1&center=true&width=910&height=100&lines=I'M+Mudiyan-MD;Multi+Divice+Whatsapp+Bot;Coded+By+MUDIYAN SIR" alt="Typing SVG" /></a>
   
 <p align="center">  
   <a href="https://youtube.com/channel/UCLUS9v7q4JagAqIJ3eeMM8w">
