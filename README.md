@@ -4,7 +4,7 @@
   
 <p align="center">  
   <a href="https://youtube.com/channel/UCLUS9v7q4JagAqIJ3eeMM8w">
-    <img alt="mudiyan height="300" src="[https://i.imgur.com/aJ96ce2.jpeg](https://i.imgur.com/aJ96ce2.jpeg)">
+    <img alt=" mudiyan height="300" src="[https://i.imgur.com/aJ96ce2.jpeg](https://i.imgur.com/aJ96ce2.jpeg)">
    
 </a> 
     
