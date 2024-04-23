@@ -2,7 +2,7 @@ FROM node:lts-buster
 
 RUN git clone https://github.com/AbhishekSuresh2/Phoenix-MD/ /root/Phoenix-MD
 
-WORKDIR /root/Phoenix-MD
+WORKDIR /root/mudiyan-md
 
 RUN apt-get update && \
   apt-get install -y \
