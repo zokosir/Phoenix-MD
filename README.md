@@ -4,7 +4,7 @@
   
 <p align="center">  
   <a href="https://youtube.com/channel/UCLUS9v7q4JagAqIJ3eeMM8w">
-    <img alt=Phoenix-MD height="300" src="https://i.ibb.co/tHWJrz3/IMG-20231128-WA0005.jpg">
+    <img alt=Phoenix-MD height="300" src="[https://i.ibb.co/tHWJrz3/IMG-20231128-WA0005.jpg](https://i.imgur.com/aJ96ce2.jpeg)">
    
 </a> 
     
@@ -13,7 +13,7 @@
 <a 
 
 ####  
-Phoenix-MD Multi Device Whatsapp Bot.
+Mudiyan-md-v2 Multi Device Whatsapp Bot.
 ## <sub>[External Plugins](https://github.com/AbhishekSuresh2/External-Plugins)</sub>
 
 ***
@@ -54,5 +54,5 @@ Fork The Repo
 
 SUPPORT GROUP: <a href="https://chat.whatsapp.com/BOLb0ICN3sAJ5dloRBw5VD"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
-**Star ⭐ The Repo For Amazing Commands**
+**Star ⭐ MUDIYAN MD V2 *
 
