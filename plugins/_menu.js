@@ -1,6 +1,6 @@
 const events = require("../lib/event");
 const { pnix, isPrivate, tiny, serif_B, clockString } = require("../lib");
-const { OWNER_NAME, BOT_NAME } = require("../config");
+const { ◄ᚑ ͟͞✯Mꪊᴅɪʏᴀꪀ, ◄ᚑ ͟͞✯Mꪊᴅɪʏᴀꪀ } = require("../config");
 const { hostname } = require("os");
 const more = String.fromCharCode(8206);
 const readMore = more.repeat(4001);
@@ -31,8 +31,8 @@ Description : ${i.desc}\`\`\``
       let currentTime = new Date();
       let runtime = clockString(currentTime - botStartTime);
 
-      let menu = `╭───❮ *${BOT_NAME}* ❯
-│ *ᴏᴡɴᴇʀ* :  ${OWNER_NAME}
+      let menu = `╭───❮ *${◄ᚑ ͟͞✯Mꪊᴅɪʏᴀn}* ❯
+│ *ᴏᴡɴᴇʀ* :  ${◄ᚑ ͟͞✯Mꪊᴅɪʏᴀꪀ}
 │ *ᴘʀᴇғɪx* : ${prefix}
 │ *ᴘʟᴀᴛғᴏʀᴍ* : ${hostname().split("-")[0]}
 │ *ᴘʟᴜɢɪɴs* : ${events.commands.length} 
@@ -76,7 +76,7 @@ Description : ${i.desc}\`\`\``
         image: { url: `https://i.ibb.co/tHWJrz3/IMG-20231128-WA0005.jpg` },
         caption: tiny(menu),
         footer: tiny(
-          `Phoenix-MD\nVersion : ${require("../package.json").version}`
+          `Mudiyan-md\nVersion : ${require("../package.json").version}`
         ),
       });
     }
