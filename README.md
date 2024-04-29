@@ -13,36 +13,34 @@
 <p align="center">
 <a 
 
-####  
-Mudiyan-md-v2 Multi Device Whatsapp Bot.
-## <sub>[External Plugins](https://github.com/AbhishekSuresh2/External-Plugins)</sub>
-
+####  ZORO-md-v2 Multi Device Whatsapp Bot.
+## <sub>[External Plugins]
 ***
 
 #### SETUP
 
 Fork The Repo
     <br>
-<a href="https://github.com/AbhishekSuresh2/mudiyan-md/fork"><img title="Phoenix-MD" src="https://img.shields.io/badge/FORK mudiyan MD-h?color=black&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/AbhishekSuresh2/zoro-md/fork"><img title="ZORO-MD" src="https://img.shields.io/badge/FORK ZORO MD-h?color=black&style=for-the-badge&logo=stackshare"></a>
 
 #### Session ID
 
-<a href="https://phoenix-mdsessionid-0ae5aea325e1.herokuapp.com"><img title="Phoenix-MD Session ID" src="https://img.shields.io/badge/GET SESSION ID-h?color=black&style=for-the-badge&logo=msi"></a>
+<a href="https://zoro--mdsessionid-0ae5aea325e1.herokuapp.com"><img title="Zoro-MD Session ID" src="https://img.shields.io/badge/GET SESSION ID-h?color=black&style=for-the-badge&logo=msi"></a>
 
-## Mudiyan-MD Deploy Method
+## ZORO-MD Deploy Method
 
 
 ### Deploy Codespace
 
-<a href="https://github.com/codespaces/new"><img title="mudiyan-MD Deploy CodeSpace" src="https://img.shields.io/badge/DEPLOY CODESPACE-h?color=black&style=for-the-badge&logo=visualstudiocode"></a>
+<a href="https://github.com/codespaces/new"><img title="zoro-MD Deploy CodeSpace" src="https://img.shields.io/badge/DEPLOY CODESPACE-h?color=black&style=for-the-badge&logo=visualstudiocode"></a>
 
 ### Codespace Tutorial
 
-<a href="https://youtu.be/ZSwJtaN0BUk?si=FOsYpMs4WbvBFCpY"><img title="mudiyan-MD Deploy CodeSpace" src="https://img.shields.io/badge/Codespace Tutorial-h?color=black&style=for-the-badge&logo=visualstudiocode"></a>
+<a href="https://youtu.be/ZSwJtaN0BUk?si=FOsYpMs4WbvBFCpY"><img title="zoro-MD Deploy CodeSpace" src="https://img.shields.io/badge/Codespace Tutorial-h?color=black&style=for-the-badge&logo=visualstudiocode"></a>
 
 ### Deploy Heroku 
 
-<a href="https://heroku.com/deploy?template=https://github.com/AbhishekSuresh2/Phoenix-MD/"><img title="Phoenix-MD Deploy Heroku" src="https://img.shields.io/badge/DEPLOY HEROKU-h?color=black&style=for-the-badge&logo=heroku"></a>
+<a href="https://heroku.com/deploy?template=https://github.com/AbhishekSuresh2/Phoenix-MD/"><img title="Zoro-MD Deploy Heroku" src="https://img.shields.io/badge/DEPLOY HEROKU-h?color=black&style=for-the-badge&logo=heroku"></a>
 
 ### Heroku Tutorial
 
@@ -51,9 +49,8 @@ Fork The Repo
 
 <a href="https://railway.app/new"><img title="Phoenix-MD Deploy Railway" src="https://img.shields.io/badge/DEPLOY RAILWAY-h?color=black&style=for-the-badge&logo=Railway"></a> 
  
- ## Support
 
-SUPPORT GROUP: <a href="https://chat.whatsapp.com/BOLb0ICN3sAJ5dloRBw5VD"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
-**Star ⭐ MUDIYAN MD V2 *
+
+**Star ⭐ ZORO MD V2 *
 
