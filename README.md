@@ -4,7 +4,8 @@
   
 <p align="center">  
   <a 
-    <img alt=" mudiyan height="300" src="[https://i.imgur.com/aJ96ce2.jpeg]">
+    <img alt=" zoro md height="400" 
+   <src="[(https://i.imgur.com/OguqkEc.jpeg)]"
    
 </a> 
     
